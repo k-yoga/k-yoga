@@ -1,3 +1,5 @@
+![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20220906182153/DevOpsEngineerSalary.gif)
+
 <h1 align="center">Hi 👋, I'm Yoga</h1>
 <h3 align="center">A passionate DevOps Engineer willing to implement my DevOps skills in a organization</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
