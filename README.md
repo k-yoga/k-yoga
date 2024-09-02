@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yoga</h1>
 <h3 align="center">A passionate DevOps Engineer willing to implement my DevOps skills in a organization</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=wNGxHlTC&id=1AF5B4627E83A6D1903CFEC25FCB55EE8CAC7D04&thid=OIP.wNGxHlTCsH9zU90WDouoDQHaFj&mediaurl=https%3a%2f%2fimages.squarespace-cdn.com%2fcontent%2fv1%2f5769fc401b631bab1addb2ab%2f1541580611624-TE64QGKRJG8SWAIUS7NS%2fcoding-freak.gif&exph=600&expw=800&q=animated+coding+gif&simid=608037180925765977&FORM=IRPRST&ck=88E93EE9E551F3611CC6EADFA0CEB852&selectedIndex=0&itb=0"
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-yoga&label=Profile%20views&color=0e75b6&style=flat" alt="k-yoga" /> </p>
 
 <h3 align="left">Connect with me:</h3>
